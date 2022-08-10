@@ -4,4 +4,4 @@ To advance object detection research in fire and smoke detection, we introduce a
 images named by the fire size, which can benefit different detection tasks. Furthermore, by carrying out extensive and abundant experiments on Various object detection models, we provide a comprehensive benchmark on our dataset.
 
 The Fire Example：
-![image](​https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset/blob/main/Figure/fire.pdf)
+![image](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset/blob/main/Figure/fire.png)
