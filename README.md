@@ -5,3 +5,13 @@ images named by the fire size, which can benefit different detection tasks. Furt
 
 The Fire Example：
 ![image](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset/blob/main/Figure/fire.png)
+
+The Smoke Example：
+![image](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset/blob/main/Figure/smoke.png)
+
+The Other Example:
+![image](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset/blob/main/Figure/other.png)
+
+Comparison of the fire detection results using the yolov4 model trained on our DFS dataset and on
+the dataset posted by Lei.  
+![image](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset/blob/main/Figure/comparison.png)
