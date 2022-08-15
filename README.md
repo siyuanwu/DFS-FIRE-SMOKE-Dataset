@@ -8,18 +8,19 @@ The download link of the DFS dataset is: https://pan.baidu.com/s/1k0fwF84mjGGUXn
 If you use this method in your research, please cite:
 ---
 
+```
+@article{oberweger2015hands,
 
->@article{oberweger2015hands,
->  title={Hands Deep in Deep Learning for Hand Pose Estimation},
+  title={Hands Deep in Deep Learning for Hand Pose Estimation},
 
->  author={Oberweger, Markus and Wohlhart, Paul and Lepetit, Vincent},
+  author={Oberweger, Markus and Wohlhart, Paul and Lepetit, Vincent},
 
->  journal={arXiv preprint arXiv:1502.06807},
+  journal={arXiv preprint arXiv:1502.06807},
 
->  year={2015}
->  
->}
-
+  year={2015}
+  
+}
+```
 
 
 The Example of DFS.
