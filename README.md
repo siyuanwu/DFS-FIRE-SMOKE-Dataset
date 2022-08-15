@@ -9,25 +9,25 @@ If you use this method in your research, please cite:
 ---
 
 ```
-@article{wu2022dataset,
-  title={A dataset for fire and smoke object detection},
-  author={Wu, Siyuan and Zhang, Xinrong and Liu, Ruqi and Li, Binhai},
-  journal={Multimedia Tools and Applications},
-  pages={1--20},
-  year={2022},
-  publisher={Springer}
+@article{wu2022dataset,  
+  title={A dataset for fire and smoke object detection},  
+  author={Wu, Siyuan and Zhang, Xinrong and Liu, Ruqi and Li, Binhai},  
+  journal={Multimedia Tools and Applications},  
+  pages={1--20},  
+  year={2022},  
+  publisher={Springer}  
 }
 ```
 
 ```
-@inproceedings{liu2021real,
-  title={Real-time fire detection network for intelligent surveillance systems},
-  author={Liu, Ruqi and Wu, Siyuan and Lu, Xiaoqiang},
-  booktitle={2nd International Conference on Computer Vision, Image, and Deep Learning},
-  volume={11911},
-  pages={225--238},
-  year={2021},
-  organization={SPIE}
+@inproceedings{liu2021real,  
+  title={Real-time fire detection network for intelligent surveillance systems},  
+  author={Liu, Ruqi and Wu, Siyuan and Lu, Xiaoqiang},  
+  booktitle={2nd International Conference on Computer Vision, Image, and Deep Learning},  
+  volume={11911},  
+  pages={225--238},  
+  year={2021},  
+  organization={SPIE}  
 }
 ```
 
