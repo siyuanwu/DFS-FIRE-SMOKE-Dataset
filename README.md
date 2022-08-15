@@ -8,7 +8,19 @@ The download link of the DFS dataset is: https://pan.baidu.com/s/1k0fwF84mjGGUXn
 If you use this method in your research, please cite:
 ---
 
-__Wu, S., Zhang, X., Liu, R. et al. A dataset for fire and smoke object detection. Multimed Tools Appl (2022). https://doi.org/10.1007/s11042-022-13580-x__
+
+>@article{oberweger2015hands,
+>  title={Hands Deep in Deep Learning for Hand Pose Estimation},
+
+>  author={Oberweger, Markus and Wohlhart, Paul and Lepetit, Vincent},
+
+>  journal={arXiv preprint arXiv:1502.06807},
+
+>  year={2015}
+>  
+>}
+
+
 
 The Example of DFS.
 ---
