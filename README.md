@@ -47,5 +47,5 @@ The Other Example:
 ![image](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset/blob/main/Figure/other.png)
 
 Comparison of the fire detection results using the yolov4 model trained on our DFS dataset and on
-the dataset posted by Lei.  
+the other dataset.  
 ![image](https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset/blob/main/Figure/comparison.png)
