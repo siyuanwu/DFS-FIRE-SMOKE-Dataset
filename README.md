@@ -3,7 +3,7 @@
 To advance object detection research in fire and smoke detection, we introduce a dataset called DFS (Dataset for Fire and Smoke detection), which is of high quality, constructed by collecting from real scenes and annotated by strict and reasonable rules. To reduce the possibility of erroneous judgments caused by objects that are similar to fires in color and brightness, apart from annotating ‘fire’ and ‘smoke’, we annotate these objects as a new class ‘other’. There are a total of 9462
 images named by the fire size, which can benefit different detection tasks. Furthermore, by carrying out extensive and abundant experiments on Various object detection models, we provide a comprehensive benchmark on our dataset.
 
-The download link of the DFS dataset is: BAIDUYUN： https://pan.baidu.com/s/1k0fwF84mjGGUXnunqhhcRw, password：menk. OneDrive： https://1drv.ms/u/s!AnnO2n5F9u0IehApsqCBnnYvXvE?e=8nroFp 
+The download link of the DFS dataset is: BAIDUYUN： https://pan.baidu.com/s/1-kV1h78BwuNe-A86cDUuvQ, password：pnxx. OneDrive： https://1drv.ms/u/s!AnnO2n5F9u0IehApsqCBnnYvXvE?e=8nroFp 
 
 Targets are labeled in VOC format.  
 
