@@ -32,7 +32,18 @@ If you use this method in your research, please cite:
   organization={SPIE}  
 }
 ```
-
+```
+@article{sun2023efficient,
+  title={An efficient lightweight CNN model for real-time fire smoke detection},
+  author={Sun, Bangyong and Wang, Yu and Wu, Siyuan},
+  journal={Journal of Real-Time Image Processing},
+  volume={20},
+  number={4},
+  pages={74},
+  year={2023},
+  publisher={Springer}
+}
+```
 
 The Example of DFS.
 ---
